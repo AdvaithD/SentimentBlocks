@@ -1,6 +1,6 @@
 # SentimentBlocks
 
-There is an extensive online community of cryptocurrency investors, both long-term holders and daytraders, discussing price movements online, 24/7. Most major cryptocurrencies have dedicated subreddits for trading discussion, and these public text posts are ripe for analysis. SentimentBlocks is a program for streaming comments from crypto-trading subreddits and Twitter tags, providing second-by-second sentiment tracking for a desired cryptocurrency.
+There is an extensive online community of cryptocurrency investors, both long-term holders and daytraders, discussing price movements online, 24/7. Most major cryptocurrencies have dedicated subreddits for trading discussion, and these public text posts are ripe for analysis. SentimentBlocks is a program built in 24 hours for [HackCambridge Ternary](https://ternary.devpost.com/) for streaming comments from crypto-trading subreddits and Twitter tags, providing second-by-second sentiment tracking for a desired cryptocurrency.
 
 # What we did
 
