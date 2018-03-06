@@ -2,6 +2,8 @@
 
 There is an extensive online community of cryptocurrency investors, both long-term holders and daytraders, discussing price movements online, 24/7. Most major cryptocurrencies have dedicated subreddits for trading discussion, and these public text posts are ripe for analysis. SentimentBlocks is a program built in 24 hours for [HackCambridge Ternary](https://ternary.devpost.com/) for streaming comments from crypto-trading subreddits and Twitter tags, providing second-by-second sentiment tracking for a desired cryptocurrency.
 
+## [See it in action for Ethereum](https://www.youtube.com/embed/wXkV4K7ivEk)
+
 # What we did
 
 We used the Reddit API (via the `praw` Python wrapper) to stream comments from specific cryptocurrency trading subreddits (such as [r/BitcoinDayTrade](https://www.reddit.com/r/BitcoinDayTrade), [r/BitcoinMarkets](https://www.reddit.com/r/BitcoinMarkets), [r/ethtrader](https://www.reddit.com/r/ethtrader) or [r/LitecoinMarkets](https://www.reddit.com/r/LitecoinMarkets)) relevant to a particular currency specified by the user. Similarly, we used the `tweepy` Python library to stream tweets from across Twitter with relevant tags, e.g. [#Bitcoin](https://twitter.com/search?q=%23bitcoin) or [$BTC](https://twitter.com/search?q=%24BTC).
